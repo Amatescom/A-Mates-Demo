@@ -49,7 +49,7 @@ android {
     }
 }
 
-val amatesVersion = "1.2.2"
+val amatesVersion = "1.2.8"
 
 dependencies {
 

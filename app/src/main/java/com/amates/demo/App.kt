@@ -18,6 +18,7 @@ class App : Application() {
             domainConfig = DomainConfig.createAmatesDomainConfig(),
             fileProviderAuthorities = "com.amates.demo.fileprovider",
             imageLoader = GlideImageLoader(),
+            profileConfig = DemoAppProfileConfig(),
             styleConfig = SimpleStyleConfig(
                 notificationIcon = R.drawable.ic_launcher_foreground, // your icon for notifications
                 nightMode = AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM
