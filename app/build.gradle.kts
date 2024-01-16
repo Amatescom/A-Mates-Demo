@@ -11,8 +11,8 @@ android {
         applicationId = "com.amates.demo"
         minSdk = 24
         targetSdk = 33
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -49,7 +49,7 @@ android {
     }
 }
 
-val amatesVersion = "1.2.8"
+val amatesVersion = "1.3.3"
 
 dependencies {
 
